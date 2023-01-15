@@ -1,0 +1,3 @@
+id,name,password,usertype
+1,admin,admin@123,Admin
+2,user,user@123,User
